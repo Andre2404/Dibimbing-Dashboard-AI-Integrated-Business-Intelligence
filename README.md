@@ -21,7 +21,7 @@ This project implements an interactive, real-time Business Intelligence dashboar
 ## Dataset
 The application uses dummy transaction data hosted on Google Sheets, fetched live when the application runs or when the refresh button is triggered.
 
-**Public Sheet Access**: [Dataset Link]([https://docs.google.com/spreadsheets/d/your-sheet-id/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1M4ZG7-CsPGvhyU7_YHOSUo-dssu-jSs0E4ralASFg60/edit?gid=678977029#gid=678977029))
+**Public Sheet Access**: [Dataset Link](https://docs.google.com/spreadsheets/d/1M4ZG7-CsPGvhyU7_YHOSUo-dssu-jSs0E4ralASFg60/edit?gid=678977029#gid=678977029)
 
 **Format**: CSV via Google Sheets export endpoint
 
@@ -106,5 +106,6 @@ Yang gw pelajari:
 2. State Management vs Filter Biasa
 Yang gw rasain beda:
 - Kalau di Looker Studio, filter itu statis - cuma nge-filter data doang. Tapi di Reflex, setiap interaksi (ngetik di chatbot, refresh data) itu ngubah state di backend Python.
+
 
 
