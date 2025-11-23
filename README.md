@@ -2,6 +2,8 @@
 
 <img width="784" height="399" alt="Preview" src="https://github.com/user-attachments/assets/2fc46da0-93f1-49e1-b6f0-0e9f4fb5f78b" />
 
+[See The Web](https://business-inteligence-dashboard-neon-ring.reflex.run/)
+
 ## Project Overview
 This project implements an interactive, real-time Business Intelligence dashboard that moves beyond traditional GUI-based tools like Looker Studio. Built with a code-first approach using Python and the Reflex framework, it enables advanced features not typically available in standard BI tools.
 
@@ -106,6 +108,7 @@ Yang gw pelajari:
 2. State Management vs Filter Biasa
 Yang gw rasain beda:
 - Kalau di Looker Studio, filter itu statis - cuma nge-filter data doang. Tapi di Reflex, setiap interaksi (ngetik di chatbot, refresh data) itu ngubah state di backend Python.
+
 
 
 
